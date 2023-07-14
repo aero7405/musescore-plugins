@@ -11,6 +11,6 @@ Converts hi-hat notes in selected range from 'Musescore style', where open and c
 *Last updated on 2023-07-14 working with Musescore 4.1.0*
 
 
-### Contributors
+## Contributors
 aero
 <br>&ensp;&ensp;Discord: @hearg
